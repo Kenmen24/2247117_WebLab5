@@ -1,0 +1,36 @@
+<?xml  version="1.0" encoding="UTF-8"?>
+
+<elayne>
+<user>
+   <userid>2247117</userid>
+   <username>Kenneth Menezes</username>
+   <useraddress>Mumbai</useraddress>
+   <userinterest>Food</userinterest>
+   <userprof>Business Man</userprof>
+   <role>CEO</role>
+</user>
+<user>
+   <userid>2247127</userid>
+   <username>Rohit Uphadyay</username>
+   <useraddress>Kolkata</useraddress>
+   <userinterest>Being Smart</userinterest>
+   <userprof>Developer</userprof>
+   <role>IT Manager</role>
+</user>
+<user>
+   <userid>2247123</userid>
+   <username>Nitendra Jaiswaal</username>
+   <useraddress>Mirzapur</useraddress>
+   <userinterest>Poetry</userinterest>
+   <userprof>English Teacher</userprof>
+   <role>Proffessor</role>
+</user>
+<user>
+   <userid>2247153</userid>
+   <username>Nandini Sharma</username>
+   <useraddress>Himachal</useraddress>
+   <userinterest>Photography</userinterest>
+   <userprof>Photographer</userprof>
+   <role>Senior Director</role>
+</user>
+</elayne>
